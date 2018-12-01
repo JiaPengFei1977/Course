@@ -5,13 +5,16 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"dev": "umi dev",
-	"build": "umi build"
+    "dev": "umi dev",
+    "build": "umi build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "umi": "^2.2.7"
+  },
+  "dependencies": {
+    "antd": "^3.10.9"
   }
 }
